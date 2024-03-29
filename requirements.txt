@@ -6,4 +6,6 @@ seaborn
 scikit-learn
 yfinance
 pandas-datareader
+keras
+tensorflow
 -e .
